@@ -4,13 +4,12 @@
 EDA on Titanic passengers info and developing & comparing various classification models for predicting the survival rate of passengers.
 
 ## Data
-Data can be found on [Kaggle, Indian Food Dataset](https://www.kaggle.com/nehaprabhavalkar/indian-food-101)
+Data can be found on [Kaggle, Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 ## Objective
 * Visualize and analysis data
-* Create filtering functions
-* Create ML-based function for detecting similar foods
-* Create ML-based recommendation function for recommending Gluten-free Food
+* Training & testing various models and comparing the results
+* Discussing the results and means of improving the models
 
 ## Results
 **Please see [DATA_EDA.ipynb](DATA_EDA.ipynb) for results.**
